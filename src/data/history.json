@@ -1,0 +1,20 @@
+[
+    {
+      "role": "Web Development Internship",
+      "organisation": "Nexus Info",
+      "startDate": "Dec, 2023",
+      "endDate": "Mar, 2024",
+      "experiences": ["Completed a web development internship at Nexus Info, gaining hands-on experience in front-end and back-end technologies while contributing to client projects."],
+      "imageSrc": "history/nexus.png"
+    },
+    {
+      "role": "Java Developer",
+      "organisation": "Matrix Zero One Systems (MZOS)",
+      "startDate": "Sep, 2022",
+      "endDate": "Apr, 2023",
+      "experiences": ["Diploma in Advance Programming"],
+      "imageSrc": "history/mzos.png"
+    }
+    
+  ]
+  

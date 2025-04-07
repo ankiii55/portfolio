@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Password-Generator",
+    "imageSrc": "projects/pg.png",
+    "description": "This project is a Java Console Application to generate random passwords and perform password strength checks.",
+    "skills": ["Core Java" ],
+    "demo": "",
+    "source": "https://github.com/ankiii55/Password-Generator"
+  },
+  {
+    "title": "Bank Management System",
+    "imageSrc": "projects/BMS.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Java", "Swing", "MySql"],
+    "demo": "",
+    "source": "https://github.com/ankiii55/BMS"
+  },
+  {
+    "title": "Movie Search TMBD API",
+    "imageSrc": "projects/movie.png",
+    "description": "This is the Simple react js app which show the movie you want to search",
+    "skills": ["ReactJs","Vite","Tailwind" ],
+    "demo": "https://moviesearchtmbd.netlify.app/",
+    "source": ""
+  },
+  {
+    "title": "Employee Management Web Application",
+    "imageSrc": "projects/list.png",
+    "description": "A full-stack Spring Boot application to manage employees with authentication, CRUD operations, and pagination features.",
+    "skills": ["Java", "Springboot" ],
+    "demo": "",
+    "source": "https://github.com/ankiii55/employee-management-webapp"
+  },
+  {
+    "title": "Library Management System",
+    "imageSrc": "projects/project.png",
+    "description": "In this project, we will learn how to build REST APIs for a Library Management System Project ",
+    "skills": ["Spring Boot","Spring Data JPA","MySQL","Postman"],
+    "demo": "",
+    "source": "https://github.com/ankiii55/LMS"
+  },
+ 
+  {
+    "title": "Javascript Mini Project",
+    "imageSrc": "projects/project.png",
+    "description": "These projects help beginners understand JavaScript concepts like DOM manipulation, event handling, conditional logic, and user input validation.",
+    "skills": ["HTML","CSS","JavaScript" ],
+    "demo": "",
+    "source": "https://github.com/ankiii55/Javascript_Mini_Project"
+  }
+   
+ 
+  ]
+  
